@@ -1,0 +1,2 @@
+# Data Structures and Algorithms Practice
+Welcome to the Data Structures and Algorithms (DSA) practice repository! This repository is designed to help you improve your understanding and skills in various data structures and algorithms. Whether you're a beginner looking to learn the basics or an experienced developer aiming to refresh your knowledge, this repository has something for everyone.
