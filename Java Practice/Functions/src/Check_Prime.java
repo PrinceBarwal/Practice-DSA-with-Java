@@ -20,7 +20,6 @@ public class Check_Prime {
                 return true;
             }
         }
-
         return false;
     }
 }
