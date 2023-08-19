@@ -16,7 +16,7 @@ public class All_Prime {
         if(num1<num2){
             for(int i = num1 ; i<=num2 ; i++){
                 if(check(i)){
-                    System.out.println(i + " ");
+                    System.out.print(i + " ");
                 }
             }
         }
